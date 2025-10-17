@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - n8n Test App</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 40px;">
+  <h1>Privacy Policy for n8n Test App</h1>
+  <p>This application, <strong>n8n Test App</strong>, is used solely for testing integrations between Meta (Facebook and Instagram) and the n8n automation platform.</p>
+  <p>We do not collect, store, or share any personal data from users. Any data accessed via the Facebook or Instagram API is used only for testing purposes within n8n and is not stored outside the user's own environment.</p>
+  <p>For questions, contact: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
+</body>
+</html>
